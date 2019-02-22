@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d58980-427b-4c51-a166-41e803284656" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vizuamatix/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogMockedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gs-rest-service" beforeDir="false" afterPath="$PROJECT_DIR$/gs-rest-service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gs-rest-service/complete/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/gs-rest-service/complete/src/main/java/hello/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gs-rest-service/complete/src/main/java/hello/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/gs-rest-service/complete/src/main/java/hello/Greeting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vizuamatix/MainApplicationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vizuamatix/MainApplicationClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,12 +46,50 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="-104">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/Blog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+              <folding>
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogMockedData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2607#2608#0" expanded="true" />
+                <element signature="e#2635#2636#0" expanded="true" />
+                <element signature="e#2972#2978#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,6 +112,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/vizuamatix/MainApplicationClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vizuamatix/Blog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogMockedData.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogController.java" />
       </list>
     </option>
@@ -85,10 +126,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="980" />
-    <option name="y" value="25" />
-    <option name="width" value="940" />
-    <option name="height" value="1055" />
+    <option name="x" value="2117" />
+    <option name="width" value="930" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,7 +186,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550829901368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550832708986" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -195,15 +235,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550824757182</updated>
-      <workItem from="1550824763981" duration="3004000" />
+      <workItem from="1550824763981" duration="5713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3004000" />
+    <option name="totallyTimeSpent" value="5713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="25" width="1879" height="1055" extended-state="6" />
+    <frame x="1920" y="-2" width="1366" height="770" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -213,10 +253,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986361" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23636363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.28708133" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
@@ -225,7 +265,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39473686" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3939394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,14 +312,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/Blog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="1040">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogMockedData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#2607#2608#0" expanded="true" />
+            <element signature="e#2635#2636#0" expanded="true" />
+            <element signature="e#2972#2978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vizuamatix/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
           </folding>
         </state>
       </provider>
